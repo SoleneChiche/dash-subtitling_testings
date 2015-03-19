@@ -13,12 +13,13 @@ There are 2 categories:
 - Content Dashed with MP4Box -dash with a segment length of 20s
 - Content Dashed and fragmented with MP4Box -dash -frag with segments of 10s and fragments of 20s/10s
 
-Then each are divided in 4 categories:
+Then each are divided in 5 categories:
 
 - Subtitles 5s long
 - Subtitles 10s long
 - Subtitles 20s long
 - Subtitles of random sizes (max = 20s)
+- Subtitles with blanks
 
 Finally in each category, 5 profiles are tested:
 
