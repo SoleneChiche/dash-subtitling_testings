@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xml:space="default" ttp:timeBase="media" xml:lang="en" ttp:cellResolution="50 30" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ebuttm="urn:ebu:tt:metadata" xmlns:ebutts="urn:ebu:tt:style">
+	<head>
+		<metadata>
+			<ebuttm:documentMetadata>
+				<ebuttm:conformsToStandard>urn:ebu:tt:distribution:2014-01</ebuttm:conformsToStandard>
+			</ebuttm:documentMetadata>
+		</metadata>
+		<styling>
+			<style xml:id="defaultStyle" tts:fontSize="80%" tts:lineHeight="125%" tts:textAlign="left" tts:color="##FF00FF" tts:backgroundColor="##660033" tts:fontStyle="normal" tts:fontWeight="normal" tts:textDecoration="none" tts:fontFamily="monospaceSansSerif"/>
+		</styling>
+		<layout>
+			<region xml:id="defaultRegion" tts:extent="80% 80%" tts:origin="10% 10%" tts:padding="0%" tts:displayAlign="after" tts:writingMode="lrtb"/>
+		</layout>
+	</head>
+	<body>
+		<div xml:id="SGN0">
+		<p begin="00:00:00.000" end="00:00:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub1">Hello, I am a EBU-TT-D subtitle 1</p>
+		<p begin="00:00:10.000" end="00:00:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub2">Hello, I am a EBU-TT-D subtitle 2</p>
+            <p begin="00:00:20.000" end="00:00:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub3">Hello, I am a EBU-TT-D subtitle 3</p>
+            <p begin="00:00:30.000" end="00:00:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub4">Hello, I am a EBU-TT-D subtitle 4</p>
+            <p begin="00:00:40.000" end="00:00:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub5">Hello, I am a EBU-TT-D subtitle 5</p>
+            <p begin="00:00:50.000" end="00:01:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub6">Hello, I am a EBU-TT-D subtitle 6</p>
+            <p begin="00:01:10.000" end="00:01:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub8">Hello, I am a EBU-TT-D subtitle 8</p>
+            <p begin="00:01:20.000" end="00:01:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub9">Hello, I am a EBU-TT-D subtitle 9</p>
+            <p begin="00:01:30.000" end="00:01:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub10">Hello, I am a EBU-TT-D subtitle 10</p>
+            <p begin="00:01:40.000" end="00:01:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub11">Hello, I am a EBU-TT-D subtitle 11</p>
+            <p begin="00:02:00.000" end="00:02:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub13">Hello, I am a EBU-TT-D subtitle 13</p>
+            <p begin="00:02:10.000" end="00:02:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub14">Hello, I am a EBU-TT-D subtitle 14</p>
+            <p begin="00:02:20.000" end="00:02:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub15">Hello, I am a EBU-TT-D subtitle 15</p>
+            <p begin="00:02:30.000" end="00:02:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub16">Hello, I am a EBU-TT-D subtitle 16</p>
+            <p begin="00:02:50.000" end="00:03:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub18">Hello, I am a EBU-TT-D subtitle 18</p>
+            <p begin="00:03:00.000" end="00:03:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub19">Hello, I am a EBU-TT-D subtitle 19</p>
+            <p begin="00:03:10.000" end="00:03:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub20">Hello, I am a EBU-TT-D subtitle 20</p>
+            <p begin="00:03:30.000" end="00:03:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub22">Hello, I am a EBU-TT-D subtitle 22</p>
+            <p begin="00:03:40.000" end="00:03:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub23">Hello, I am a EBU-TT-D subtitle 23</p>
+            <p begin="00:04:00.000" end="00:04:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub25">Hello, I am a EBU-TT-D subtitle 25</p>
+            <p begin="00:04:10.000" end="00:04:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub26">Hello, I am a EBU-TT-D subtitle 26</p>
+            <p begin="00:04:20.000" end="00:04:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub27">Hello, I am a EBU-TT-D subtitle 27</p>
+            <p begin="00:04:30.000" end="00:04:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub28">Hello, I am a EBU-TT-D subtitle 28</p>
+            <p begin="00:04:40.000" end="00:04:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub29">Hello, I am a EBU-TT-D subtitle 29</p>
+            <p begin="00:05:00.000" end="00:05:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub31">Hello, I am a EBU-TT-D subtitle 31</p>
+            <p begin="00:05:10.000" end="00:05:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub32">Hello, I am a EBU-TT-D subtitle 32</p>
+            <p begin="00:05:20.000" end="00:05:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub33">Hello, I am a EBU-TT-D subtitle 33</p>
+            <p begin="00:05:30.000" end="00:05:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub34">Hello, I am a EBU-TT-D subtitle 34</p>
+            <p begin="00:05:50.000" end="00:06:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub36">Hello, I am a EBU-TT-D subtitle 36</p>
+            <p begin="00:06:00.000" end="00:06:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub37">Hello, I am a EBU-TT-D subtitle 37</p>
+            <p begin="00:06:10.000" end="00:06:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub38">Hello, I am a EBU-TT-D subtitle 38</p>
+            <p begin="00:06:30.000" end="00:06:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub40">Hello, I am a EBU-TT-D subtitle 40</p>
+            <p begin="00:06:50.000" end="00:07:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub42">Hello, I am a EBU-TT-D subtitle 42</p>
+            <p begin="00:07:00.000" end="00:07:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub43">Hello, I am a EBU-TT-D subtitle 43</p>
+            <p begin="00:07:10.000" end="00:07:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub44">Hello, I am a EBU-TT-D subtitle 44</p>
+            <p begin="00:07:20.000" end="00:07:30.000" style="defaultStyle" region="defaultRegion" xml:id="sub45">Hello, I am a EBU-TT-D subtitle 45</p>
+            <p begin="00:07:40.000" end="00:07:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub47">Hello, I am a EBU-TT-D subtitle 47</p>
+            <p begin="00:07:50.000" end="00:08:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub48">Hello, I am a EBU-TT-D subtitle 48</p>
+            <p begin="00:08:10.000" end="00:08:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub50">Hello, I am a EBU-TT-D subtitle 50</p>
+            <p begin="00:08:30.000" end="00:08:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub52">Hello, I am a EBU-TT-D subtitle 52</p>
+            <p begin="00:08:40.000" end="00:08:50.000" style="defaultStyle" region="defaultRegion" xml:id="sub53">Hello, I am a EBU-TT-D subtitle 53</p>
+            <p begin="00:08:50.000" end="00:09:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub54">Hello, I am a EBU-TT-D subtitle 54</p>
+            <p begin="00:09:00.000" end="00:09:10.000" style="defaultStyle" region="defaultRegion" xml:id="sub55">Hello, I am a EBU-TT-D subtitle 55</p>
+            <p begin="00:09:10.000" end="00:09:20.000" style="defaultStyle" region="defaultRegion" xml:id="sub56">Hello, I am a EBU-TT-D subtitle 56</p>
+            <p begin="00:09:30.000" end="00:09:40.000" style="defaultStyle" region="defaultRegion" xml:id="sub58">Hello, I am a EBU-TT-D subtitle 58</p>
+            <p begin="00:09:50.000" end="00:10:00.000" style="defaultStyle" region="defaultRegion" xml:id="sub60">Hello, I am a EBU-TT-D subtitle 60</p>
+        </div>
+	</body>
+</tt>
