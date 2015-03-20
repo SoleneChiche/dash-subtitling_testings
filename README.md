@@ -20,8 +20,8 @@ Then each are divided in 7 categories:
 - Subtitles 20s long
 - Subtitles of random sizes (max = 20s)
 - Subtitles with blanks
-- Subtitles longer than A/C content
-- Subtitles shorter than A/C content
+- Subtitles longer than A/V content
+- Subtitles shorter than A/V content
 
 Finally in each category, 5 profiles are tested:
 
